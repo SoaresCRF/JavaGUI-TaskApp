@@ -335,5 +335,5 @@ public final class TaskDialogScreen extends javax.swing.JDialog {
         }
 
         return today.compareTo(deadline) <= 0;
-    }
+    }    
 }
